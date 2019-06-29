@@ -1,0 +1,50 @@
+okay, so
+
+- verify type of each attribute
+
+
+- impute the values
+- feature selection based on imputed values
+- elimiate those that are not predictive of target
+
+- remove threshold missing, impute values and compare to full
+
+dont get whats happening with the toc??!!!
+=========================================
+6866  pip install vega_datasets
+ 6867  jupyter lab
+ 6868  python -m ipykernel install --user --name rlearn_exp_env --display-name "R-Learning Exploration"
+ 6869  jupyter lab
+ 6870  jupyter labextension list
+ 6871  jupyter lab
+ 6872  pip list
+ 6873  pip install jupyter-contrib-nbextensions
+ 6874  pip list
+ 6875  jupyter lab
+ 6876  jupyter contrib nbextension install --user
+ 6877  jupyter contrib nbextension install
+ 6878  jupyter lab
+ 6879  jupyter contrib nbextension install --user
+ 6880  jupyter contrib nbextension install
+ 6881  jupyter lab
+ 6882  jupyter 
+ 6883  jupyter notebook 
+ 6884  jupyterlabs 
+ 6885  jupyter labs 
+ 6886  jupyter-lab
+ 6887  jupyter labextension install @jupyterlab/toc
+ 6888  jupyter lab
+ 6889  jupyter labextension install @jupyterlab-toc
+ 6890  jupyter labextension install jupyterlab-toc
+ 6891  jupyter labextension uninstall @jupyterlab-toc
+ 6892  jupyter uninstall @jupyterlab-toc
+ 6893  pip uninstall @jupyterlab-toc
+ 6894  pip uninstall jupyterlab-toc
+ 6895  pip freeze
+ 6896  jupyter labextension install @jupyterlab/google-drive
+ 6897  jupyter lab
+ 6898  pip uninstall jupyterlab
+ 6899  pip install jupyterlab
+ 6900  pip uninstall jupyterlab
+ 6901  jupyter lab
+(rlearn_exp_env) ☁  rlearn_exploration  
