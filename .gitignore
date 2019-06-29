@@ -2,6 +2,9 @@
 rlearn_exp_env/
 .DS_Store
 .idea
+data
+
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
