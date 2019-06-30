@@ -1,6 +1,10 @@
-okay, so
+                           
+is there a correlation btw wealth and  reward
+***  how good are these attributes at predicting probability of payment???***
+will probability of payment influeence state
+what about the state of do nothing??
 
-- verify type of each attribute
+
 
 
 - impute the values
@@ -8,6 +12,22 @@ okay, so
 - elimiate those that are not predictive of target
 
 - remove threshold missing, impute values and compare to full
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 dont get whats happening with the toc??!!!
 =========================================
